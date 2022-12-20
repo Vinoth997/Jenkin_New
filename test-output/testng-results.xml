@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-20T17:23:53 IST" name="Suite" finished-at="2022-12-20T17:23:55 IST" duration-ms="2146">
+  <suite started-at="2022-12-20T19:12:33 IST" name="Suite" finished-at="2022-12-20T19:12:51 IST" duration-ms="18514">
     <groups>
     </groups>
-    <test started-at="2022-12-20T17:23:53 IST" name="Test" finished-at="2022-12-20T17:23:55 IST" duration-ms="2146">
+    <test started-at="2022-12-20T19:12:33 IST" name="Test" finished-at="2022-12-20T19:12:51 IST" duration-ms="18514">
       <class name="practice.sampleTest">
-        <test-method is-config="true" signature="browserOpen()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T17:23:53 IST" name="browserOpen" finished-at="2022-12-20T17:23:55 IST" duration-ms="1927" status="PASS">
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T19:12:33 IST" name="browserOpen" finished-at="2022-12-20T19:12:35 IST" duration-ms="2165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserOpen -->
-        <test-method signature="testing()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T17:23:55 IST" name="testing" finished-at="2022-12-20T17:23:55 IST" duration-ms="68" status="PASS">
+        <test-method signature="testing()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T19:12:35 IST" name="testing" finished-at="2022-12-20T19:12:35 IST" duration-ms="68" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testing -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T17:23:55 IST" name="tearDown" finished-at="2022-12-20T17:23:55 IST" duration-ms="126" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice.sampleTest@1fa268de]" started-at="2022-12-20T19:12:35 IST" name="tearDown" finished-at="2022-12-20T19:12:51 IST" duration-ms="16256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
