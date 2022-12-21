@@ -29,11 +29,13 @@ public class sampleTest {
 	}
 	
 	@Test
-	public void testing() {
+	public void testing() throws InterruptedException {
 		
 		WebElement search = driver.findElement(By.xpath("//input[@class='search-keyword']"));
 		
 		search.sendKeys("C");
+		
+		Thread.sleep(3000);
 		
 	}
 	
